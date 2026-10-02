@@ -55,75 +55,70 @@ I enjoy taking a complicated real-world problem, breaking it into smaller engine
 
 # 🛠️ Tech Stack
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
+<div align="center">
 
 ### 💻 Languages & Core
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
-</p>
 
-<p align="center">
+<br><br>
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-</p>
+</div>
 
-</td>
+---
 
-<td width="33%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚛️ Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+<br><br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 
-</p>
+</div>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌐 Backend & APIs
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
-<p align="center">
+<br><br>
 
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
 
-</p>
+</div>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🗄️ Databases & Caching
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
+
+<br><br>
 
 ![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 
-</p>
+</div>
 
 </td>
 
@@ -131,116 +126,33 @@ I enjoy taking a complicated real-world problem, breaking it into smaller engine
 
 ### 🤖 AI / ML / RAG
 
-<p align="center">
+<div align="center">
 
 ![RAG](https://img.shields.io/badge/RAG-00A67E?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLM_Applications-6C63FF?style=flat-square)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-6C63FF?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/Embeddings-8A2BE2?style=flat-square)
 
-</p>
-
-<p align="center">
+<br><br>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
 
-</p>
+<br><br>
 
-<p align="center">
-
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square\&logo=google\&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square\&logo=google\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
 
-</p>
+</div>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### 🧠 AI Engineering & Optimization
+##
 
-<p align="center">
-
-![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-00A67E?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector_Search-7B61FF?style=flat-square)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-6C63FF?style=flat-square)
-
-</p>
-
-<p align="center">
-
-![Google OR-Tools](https://img.shields.io/badge/Google_OR--Tools-4285F4?style=flat-square\&logo=google\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square)
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧰 Development & Version Control
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-<p align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ☁️ Deployment & Cloud
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=gcp,vercel" />
-</p>
-
-<p align="center">
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=black)
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏗️ Engineering Concepts
-
-<p align="center">
-
-![System Design](https://img.shields.io/badge/System_Design-4B5563?style=flat-square)
-![Database Design](https://img.shields.io/badge/Database_Design-316192?style=flat-square)
-
-</p>
-
-<p align="center">
-
-![Authentication](https://img.shields.io/badge/Authentication_%26_Authorization-111827?style=flat-square)
-![RBAC](https://img.shields.io/badge/RBAC-374151?style=flat-square)
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
