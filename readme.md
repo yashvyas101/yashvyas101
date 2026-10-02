@@ -29,67 +29,15 @@ I am a **third-year Integrated B.Tech + M.Tech student in Information Technology
 
 My core focus is around **Backend Engineering and AI Engineering**, with hands-on work in:
 
-* Building RESTful backend services with **Node.js & Express.js**
-* Designing relational databases using **PostgreSQL & MySQL**
-* Authentication and authorization using **JWT**
 * Building AI applications using **RAG, embeddings and LLM APIs**
-* Designing scalable systems with **Redis, background processing and clean architecture**
+* Designing scalable systems with ** background processing and clean architecture**
 * Exploring **Machine Learning, Deep Learning and Agentic AI**
-* Applying **Data Structures & Algorithms** to improve problem-solving
 
 I enjoy taking a complicated real-world problem, breaking it into smaller engineering problems, and turning it into a working technical solution.
 
 ---
 
-## 🚀 What I'm Building
 
-### 🚂 Intelligent Railway Coordination & Optimization
-
-Working on **RailNiyojan**, an AI-assisted railway coordination and optimization platform.
-
-The system focuses on coordinating railway departments, maintenance tasks, dependencies, resources and scheduling while using **AI, RAG and optimization techniques** to assist planning.
-
-**Focus:**
-`AI Pipelines` `RAG` `Optimization` `PostgreSQL` `Node.js` `System Design`
-
----
-
-### 🧠 RAG & LLM Applications
-
-Building and exploring **Retrieval-Augmented Generation systems** involving:
-
-* Document processing
-* Chunking
-* Embeddings
-* Vector similarity search
-* Context retrieval
-* LLM-based generation
-* RAG evaluation
-* AI application pipelines
-
-Currently going deeper into **Agentic AI, tool calling, memory and LLM evaluation**.
-
----
-
-### ⚙️ Scalable Backend Systems
-
-Working with backend architectures involving:
-
-`Node.js` → `Express.js` → `REST APIs` → `PostgreSQL` → `Redis`
-
-Exploring:
-
-* API architecture
-* Database design
-* Authentication
-* Caching
-* Background jobs
-* Rate limiting
-* HLD / LLD
-* Clean architecture
-* Scalable system design
-
----
 
 ## 🧠 Areas I'm Exploring
 
@@ -104,122 +52,224 @@ Exploring:
 
 ---
 
+
 # 🛠️ Tech Stack
-
-### 💻 Languages & Core
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🌐 Backend & APIs
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-</p>
-
-### ⚛️ Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Caching
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML / Data
-
-<p>
-<img src="https://img.shields.io/badge/RAG-00A67E?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLM_Applications-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embeddings-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### 🧰 Development & Deployment
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-</p>
-
----
-
-# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
 
-### 🚂 RailNiyojan
+<td width="33%" valign="top">
 
-AI-assisted railway coordination and optimization platform developed around railway maintenance, departmental coordination, dependencies and scheduling.
+### 💻 Languages & Core
 
-**Tech:**
-`Node.js` `PostgreSQL` `RAG` `AI` `Optimization` `Redis`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
+</p>
+
+<p align="center">
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚛️ Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<p align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+
+</p>
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🧠 Wani RAG
+### 🌐 Backend & APIs
 
-RAG-based AI application focused on retrieving relevant information and generating context-aware responses using an LLM pipeline.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Tech:**
-`RAG` `Embeddings` `Vector Search` `LLMs` `AI Pipeline`
+<p align="center">
+
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+
+</p>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🎙️ Voice Audit
+<td width="50%" valign="top">
 
-AI-oriented voice auditing project focused on processing voice interactions and extracting useful information for analysis.
+### 🗄️ Databases & Caching
 
-**Tech:**
-`AI` `Audio` `Backend` `LLM` `Data Processing`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
+</p>
+
+<p align="center">
+
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / ML / RAG
+
+<p align="center">
+
+![RAG](https://img.shields.io/badge/RAG-00A67E?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLM_Applications-6C63FF?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-8A2BE2?style=flat-square)
+
+</p>
+
+<p align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+
+</p>
+
+<p align="center">
+
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square\&logo=google\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+
+</p>
 
 </td>
 
-<td width="50%">
-
-### 📝 Quiz Platform
-
-Full-stack quiz platform with student/teacher workflows, authentication, assignments, results and competitive features.
-
-**Tech:**
-`React` `Node.js` `PostgreSQL` `Redis` `JWT`
-
-</td>
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 AI Engineering & Optimization
+
+<p align="center">
+
+![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-00A67E?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector_Search-7B61FF?style=flat-square)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-6C63FF?style=flat-square)
+
+</p>
+
+<p align="center">
+
+![Google OR-Tools](https://img.shields.io/badge/Google_OR--Tools-4285F4?style=flat-square\&logo=google\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square)
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧰 Development & Version Control
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ☁️ Deployment & Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=gcp,vercel" />
+</p>
+
+<p align="center">
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=black)
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏗️ Engineering Concepts
+
+<p align="center">
+
+![System Design](https://img.shields.io/badge/System_Design-4B5563?style=flat-square)
+![Database Design](https://img.shields.io/badge/Database_Design-316192?style=flat-square)
+
+</p>
+
+<p align="center">
+
+![Authentication](https://img.shields.io/badge/Authentication_%26_Authorization-111827?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-374151?style=flat-square)
+
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
+
+### 🔭 Currently Exploring
+
+<p align="center">
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-2563EB?style=for-the-badge)
+![RAG Evaluation](https://img.shields.io/badge/RAG_Evaluation-059669?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-374151?style=for-the-badge)
+
+</p>
+
+<p align="center">
+
+**Agents • Tool Calling • Memory • RAG Evaluation • LLM Evaluation • Scalable Architecture**
+
+</p>
+
+
+
+
+
+
+---
+
+
+
 
 # 📊 GitHub Statistics
 
